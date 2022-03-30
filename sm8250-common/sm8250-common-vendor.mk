@@ -800,6 +800,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
     libfastcvopt \
     libthermalclient \
+    CACertService \
     CneApp \
     IWlanService \
     SoterService \
