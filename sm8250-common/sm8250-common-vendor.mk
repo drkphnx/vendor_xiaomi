@@ -798,7 +798,6 @@ PRODUCT_PACKAGES += \
     SoterService \
     TimeService \
     com.qualcomm.qti.gpudrivers.kona.api30 \
-    gpu_profiling_vulkan_layer \
     PowerOffAlarm \
     QtiTelephonyService \
     WfdService \
